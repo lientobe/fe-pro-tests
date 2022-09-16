@@ -18,7 +18,7 @@ describe('changeStringCase()', () => {
       'Hello world'
     );
   });
-});
+}); 
 
 describe('sumOfArray()', () => {
   describe('If type of values is number', () => {
